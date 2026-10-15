@@ -8,10 +8,13 @@
 ## 项目目录结构
 python-demos/
 ├── demos/
-│   ├── ai/                 # AI 对话 Web 助手
-│   ├── crawler/            # 电影榜单爬虫
-│   └── visualization/       # 连锁店订单数据分析可视化
+│   ├── ai/                 # AI智能伴侣
+│   ├── crawler/            # TMDB电影榜单爬虫
+│   ├── data-analysis/      
+│   ├── visualization/      # 店铺销售订单数据分析
+│   └── other-scripts/      # 其他脚本
 └── README.md
+
 
 ### 🤖 Demo 1｜AI对话Web助手
 技术栈：Streamlit + DeepSeek API + JSON本地存储
